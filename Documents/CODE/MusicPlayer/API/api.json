@@ -1,0 +1,88 @@
+{
+    "songs": [
+        {
+          "name": "Sau Lưng Anh Có Ai Kìa",
+          "singer": "Thiều Bảo Trâm",
+          "path": "../music/Sau-Lưng-Anh-Có-Ai-Kìa-_Lofi-Ver._-Thiều-Bảo-Trâm-x-Freak-D.mp3",
+          "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/8/0/7/1807c6b5fcc7058a14e1a288801221c7.jpg"
+        },
+        {
+          "name": "Bao tiền một mớ bình yên",
+          "singer": "14 Casper",
+          "path": "../music/bao-tiền-một-mớ-bình-yên.mp3",
+          "image": "https://images.genius.com/90950bae35ab36a6c0aa0a721d8764a5.1000x1000x1.jpg"
+        },
+        {
+          "name": "Dù cho mai về sau",
+          "singer": "Buitruonglinh",
+          "path": "../music/Dù-Cho-Mai-Về-Sau-_Lofi-Ver._-buitruonglinh-x-Freak-D.mp3",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/ea/c3/0aeac351-5532-0ea2-27d2-a14c118d1964/190296442711.jpg/400x400cc.jpg"
+        },
+        {
+          "name": "Đường tôi chở em về",
+          "singer": "Buitruonglinh",
+          "path": "../music/Đường-Tôi-Chở-Em-Về-_Lofi-Ver._-buitruonglinh-x-Freak-D.mp3",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/75/8d/0e/758d0e4c-2228-c9aa-f7b6-2f6c70004387/20UMGIM52129.rgb.jpg/400x400cc.jpg"
+        },
+        {
+          "name": "Hạnh phúc bỏ rơi em",
+          "singer": "Hương Ly",
+          "path": "../music/Hạnh-Phúc-Bỏ-Rơi-Em-_Lofi-Ver._-Hương-Ly-x-Freak-D.mp3",
+          "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/a6/f3/d0/a6f3d074-5fbf-ed77-1cdf-85d28465503e/cover.jpg/600x600bf-60.jpg"
+        },
+        {
+          "name": "Kẻ cô đơn trong thành phố",
+          "singer": "Khải",
+          "path": "../music/Kẻ-Cô-Đơn-Trong-Thành-Phố-_Lofi-Ver._-Khải-x-Freak-D.mp3",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3b/f6/21/3bf62118-7fb1-c5f7-1b9c-e21541cb9060/cover.jpg/400x400cc.jpg"
+        },
+        {
+          "name": "Một mình có buồn không",
+          "singer": "Thiều Bảo Trâm",
+          "path": "../music/Một-Mình-Có-Buồn-Không-_Freak-D-Lofi-Ver._-Thiều-Bảo-Trâm-ft.-Lou-Hoàng.mp3",
+          "image": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/e6/67/2d/e6672d99-3e5b-4ac4-f559-1392c2d37dcc/190296443022.jpg/400x400cc.jpg"
+        },
+        {
+          "name": "Thương em là điều anh không thể ngờ",
+          "singer": "Noo Phước Thịnh",
+          "path": "../music/Thương-Em-Là-Điều-Anh-Không-Thể-Ngờ-_Lofi-Ver._-Noo-Phước-Thịnh-x-Freak-D.mp3",
+          "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/49/94/ba/4994bab7-65a3-a1e8-7086-5a2da321efcb/886447494011.jpg/400x400bb.jpg"
+        },
+        {
+          "name": "Xem như ta chẳng may",
+          "singer": "Chu Thuý Quỳnh, Trung Ngon",
+          "path": "../music/Xem-Như-Anh-Chẳng-May-_Lofi-Ver._-Chu-Thúy-Quỳnh-x-Trung-Ngon-x-Freak-D.mp3",
+          "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/3/5/9/53598d9828967f15b90f52c9d8c58af6.jpg"
+        },
+        {
+          "name": "Ngày đầu tiên",
+          "singer": "Đức Phúc",
+          "path": "../music/Ngày Đầu Tiên (Lofi Ver.) - Đức Phúc x Freak D.mp3",
+          "image": "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2022/02/faa13fe1-57f2-4333-9025-d5262a68425e-5570.jpeg?fit=660%2C20000&quality=95&ssl=1"
+        },
+        {
+          "name": "Đừng xem ai đó là cả thế giới",
+          "singer": "Reddy",
+          "path": "../music/Đừng Xem Ai Đó Là Cả Thế Giới (Lofi Ver.) - Reddy x Freak D.mp3",
+          "image": "https://i1.sndcdn.com/artworks-ogecHcPIYemtgzys-Lozwyg-t500x500.jpg"
+        },
+        {
+          "name": "Sài gòn hôm nay mưa",
+          "singer": "JSOL, Hoàng Duyên",
+          "path": "../music/Sài Gòn Hôm Nay Mưa - JSOL ft. Hoàng Duyên「Lo - Fi Version by 1 9 6 7」_ Audio Lyrics.mp3",
+          "image": "https://i.scdn.co/image/ab67616d0000b27377e4346732223fbfe92d0866"
+        },
+        {
+          "name": "Kẻ điên tin vào tình yêu",
+          "singer": "Lil Z Poet",
+          "path": "../music/Kẻ Điên Tin Vào Tình Yêu (Lofi Ver.) - Lil Z Poet x Freak D.mp3",
+          "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/17/66/7a/17667ae5-7bdf-590c-2ec8-f4109673db2c/5060836964162.png/400x400cc.jpg"
+        },
+        {
+          "name": "Thế Thái",
+          "singer": "Hương Ly",
+          "path": "../music/Thế Thái (Lofi Ver.) - Hương Ly x Freak D.mp3",
+          "image": "https://avatar-ex-swe.nixcdn.com/song/2020/10/22/2/5/7/8/1603351803665_500.jpg"
+        }
+      ]
+}
